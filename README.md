@@ -7,6 +7,4 @@ and the app can automatically recognize the food using our trained machine learn
 
 By using FruityFridge, users can simply check this app to see what food they have in the fridge and thereby reduce food waste. :)
 
-![alt text](https://github.com/Macy6/FruityFridge/blob/master/demo/banana.png)
-![alt text](https://github.com/Macy6/FruityFridge/blob/master/demo/grapefruit.png)
-![alt text](https://github.com/Macy6/FruityFridge/blob/master/demo/dragon_fruit.png)
+![alt text](https://github.com/Macy6/FruityFridge/blob/master/demo/demo.png)
