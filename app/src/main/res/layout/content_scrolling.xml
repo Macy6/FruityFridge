@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:showIn="@layout/activity_scrolling"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ScrollingActivity">
+    <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:layout_margin="10dp" android:id="@+id/list">
+        <!--
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" app:cardBackgroundColor="#FFFFFF">
+            <ImageView
+                    android:layout_width="169dp"
+                    android:layout_height="100dp" app:srcCompat="@drawable/banana" android:id="@+id/imageView"
+                    android:contentDescription="@string/banana" android:layout_margin="10dp" android:maxWidth="30dp"/>
+            <TextView
+                    android:text="@string/banana"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/fruit1"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <ImageView
+                    android:layout_width="169dp"
+                    android:layout_height="100dp" app:srcCompat="@drawable/grapefruit"
+                    android:id="@+id/imageView2" android:contentDescription="@string/grapefruit"
+                    android:layout_margin="10dp"/>
+            <TextView
+                    android:text="@string/grapefruit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/fruit2"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+        </androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <ImageView
+                    android:layout_width="163dp"
+                    android:layout_height="88dp" app:srcCompat="@drawable/dragon" android:id="@+id/imageView3"
+                    android:contentDescription="@string/dragon_fruit" android:layout_margin="10dp"/>
+            <TextView
+                    android:text="@string/dragon_fruit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:id="@+id/fruit3"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body1"/>
+        </androidx.cardview.widget.CardView>-->
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

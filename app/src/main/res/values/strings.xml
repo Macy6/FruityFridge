@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFridge</string>
+    <string name="banana">Banana</string>
+    <string name="grapefruit">Grapefruit</string>
+    <string name="dragon_fruit">Dragon Fruit</string>
+    <string name="action_settings">Settings</string>
+</resources>
